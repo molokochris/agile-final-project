@@ -1,11 +1,11 @@
-# 🗂️ Agile Final Project — E-Commerce Product Catalog
+# Agile Final Project — E-Commerce Product Catalog
 
 > **IBM Agile Development and Scrum** · Final Project  
 > Simulating a real Agile sprint end-to-end: backlog creation, sprint planning, and sprint execution on a Kanban board.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the full Agile/Scrum workflow applied to the back-end development of an **e-commerce product catalog**. The catalog needs to support CRUD operations, product interactions (likes/dislikes), and cloud deployment with automated pipelines.
 
@@ -13,7 +13,7 @@ Rather than building the application itself, this project focuses on the **plann
 
 ---
 
-## 🎯 Stakeholder Requirements
+## Stakeholder Requirements
 
 | # | Requirement |
 |---|---|
@@ -30,7 +30,7 @@ Rather than building the application itself, this project focuses on the **plann
 
 ---
 
-## 🏗️ What Was Built (Process-wise)
+## What Was Built (Process-wise)
 
 ### 1. GitHub Kanban Board
 A project board with the following columns:
@@ -80,7 +80,7 @@ The sprint was simulated by moving stories across the board:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 agile-final-project/
@@ -92,7 +92,7 @@ agile-final-project/
 
 ---
 
-## 🧰 Tools & Methodology
+## Tools & Methodology
 
 | Tool / Concept | Usage |
 |---|---|
@@ -104,14 +104,14 @@ agile-final-project/
 
 ---
 
-## 📚 Course
+## Course
 
 **IBM Agile Development and Scrum** — offered via [Coursera](https://www.coursera.org)  
 Part of the IBM DevOps and Software Engineering Professional Certificate.
 
 ---
 
-## 👤 Author
+## Author
 
 **Moloko Chris Poopedi**
 [GitHub](https://github.com/molokochris)
